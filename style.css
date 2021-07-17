@@ -1,0 +1,21 @@
+/* body{
+    background-color: aqua;
+} */
+
+#cv-template {
+    display: none;
+} 
+img {
+    margin-top: 4%;
+    width: 200px;
+}
+.background{
+    background-color: aqua;
+}
+.col-md-4 {
+    background-color: aqua;
+}
+.col-md-8 {
+    background-color: rgb(217, 243, 243);
+}
+
